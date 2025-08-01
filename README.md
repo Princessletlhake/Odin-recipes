@@ -14,6 +14,7 @@ The goal was to:
 - Understand how to create and organize multiple web pages
 - Practice linking pages together using relative paths
 - Learn how to structure content for readability and accessibility
+- Learn how to use the box model by utilizing css properties like padding and margin
 
 It’s also a fun way to combine my love for cooking with my interest in web development!
 
@@ -28,6 +29,7 @@ It’s also a fun way to combine my love for cooking with my interest in web dev
   - Pizza
 - 🖼️ Images for each dish (optional)
 - 💡 Clean layout using semantic HTML
+- 🎨 Basic styling using box model
 
 ---
 
@@ -40,6 +42,8 @@ Odin-recipes/
 ├── beefStewRecipe.html # Beef Stew recipe
 ├── pizzaRecipe.html # Pizza recipe
 └── README.md # This file
+└── style.css # Styles 
+
 
 ---
 
